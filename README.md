@@ -13,7 +13,7 @@ Login | SignUp
 Home |
 ---|
 <img src="ss/ss_4.png" style="margin-right: 20px" alt="drawing" width="420"/> 
-| <img src="ss/ss_6.png" style="margin-right: 20px" alt="drawing" width="420"/>  
+<img src="ss/ss_6.png" style="margin-right: 20px" alt="drawing" width="420"/>  
 <br />
 
 Favorite's Page |
