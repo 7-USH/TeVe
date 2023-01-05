@@ -1,8 +1,22 @@
 ![](TeVe.png)
+<h1 align="center">
+A Free IPtv Player
+</h1>
+
 
 # 📺 **TeVe** ![license](https://img.shields.io/github/license/7-USH/Heart-Rate-Monitor)
 
 A cross platform **IPTv player** developed for Android/IOS.
+
+You can watch and add channels to your favorite list from all around the globe. You can access channels according to your preference of choice or based upon your country. 
+
+This app contains roughly [10,000 channels](https://iptv-org.github.io/iptv/channels.json) that are freely available to watch. 
+
+## **Overview**
+
+The app uses the [IPTV API](https://iptv-org.github.io) as a data sources and uses the standard dart libraries for making network requests.
+
+In terms of UI, the goal was replicating the Android design as closely as possible to understand the possibilities that Flutter offers for crafting UIs.
 
 ## **Screenshots**
 Login | SignUp
@@ -44,7 +58,7 @@ Channel Page |
 
 #### Get all channels
 
-```http
+```
   GET /iptv/channels.json
 ```
 
