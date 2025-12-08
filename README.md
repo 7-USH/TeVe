@@ -59,7 +59,7 @@ Channel Page |
 #### Get all channels
 
 ```
-  GET /iptv/channels.json
+  GET /api/channels.json
 ```
 
 | Parameter | Type   | Response           |
